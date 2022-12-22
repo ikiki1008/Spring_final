@@ -24,3 +24,4 @@ $(".minus").click(function(){
 		$(".numBox").val(minusNum);										
 	}
 });
+
