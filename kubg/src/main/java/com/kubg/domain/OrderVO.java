@@ -3,19 +3,7 @@ package com.kubg.domain;
 import java.util.Date;
 
 public class OrderVO {
-/*  
-    orderId     varchar2(50) not null,
-    userId      varchar2(50) not null,
-    orderRec    varchar2(50) not null,
-    userAddr1   varchar2(20) not null,
-    userAddr2   varchar2(50) not null,
-    userAddr3   varchar2(50) not null,
-    orderPhon   varchar2(30) not null,
-    amount      number       not null,
-    orderDate   Date         default sysdate,  
-    
-    delivery    varchar2(20)    default '배송준비'
-*/
+
 	private String orderId;
 	private String userId;
 	private String orderRec;

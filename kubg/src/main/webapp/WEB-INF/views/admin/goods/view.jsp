@@ -3,7 +3,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <head>
-	<title>kubg Admin</title>
+	<title>mia Admin</title>
 	
 <script src="/resources/jquery/jquery-3.3.1.min.js"></script>
 

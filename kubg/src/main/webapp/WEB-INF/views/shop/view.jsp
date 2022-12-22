@@ -5,7 +5,7 @@
 
 <html>
 <head>
-	<title>kubg</title>
+	<title>Mia</title>
 	
 	<script src="/resources/jquery/jquery-3.3.1.min.js"></script>
 	

@@ -3,13 +3,7 @@ package com.kubg.domain;
 import java.util.Date;
 
 public class CartVO {
-/*  
-    cartNum     number          not null,
-    userId      varchar2(50)    not null,
-    gdsNum      number          not null,
-    cartStock   number          not null,
-    addDate     date            default sysdate,
-*/
+
 	private int cartNum;
 	private String userId;
 	private int gdsNum;

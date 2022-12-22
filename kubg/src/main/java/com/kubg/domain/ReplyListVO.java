@@ -4,13 +4,6 @@ import java.util.Date;
 
 public class ReplyListVO {
 
-/*  
-    gdsNum      number          not null,
-    userId    varchar2(50)    not null,
-    repNum      number          not null,
-    repCon      varchar2(2000)  not null,
-    repDate     date            default sysdate,
-*/
 	private int gdsNum;
 	private String userId;
 	private int repNum;
